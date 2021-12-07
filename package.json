@@ -1,8 +1,8 @@
 {
-  "name": "com.bugsnag.upmtest",
+  "name": "com.test.test",
   "version": "1.0.0",
-  "displayName": "upmtest",
-  "description": "upmtest",
+  "displayName": "test",
+  "description": "test",
   "unity": "2018.1",
   "documentationUrl": "https://docs.bugsnag.com/platforms/unity/",
   "changelogUrl": "https://github.com/bugsnag/bugsnag-unity/blob/master/CHANGELOG.md",
