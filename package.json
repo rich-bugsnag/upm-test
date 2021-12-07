@@ -1,0 +1,15 @@
+{
+  "name": "com.bugsnag.upmtest",
+  "version": "1.0.0",
+  "displayName": "upmtest",
+  "description": "upmtest",
+  "unity": "2018.1",
+  "documentationUrl": "https://docs.bugsnag.com/platforms/unity/",
+  "changelogUrl": "https://github.com/bugsnag/bugsnag-unity/blob/master/CHANGELOG.md",
+  "licensesUrl": "https://github.com/bugsnag/bugsnag-unity/blob/master/LICENSE.txt",
+  "author": {
+    "name": "Bugsnag",
+    "email": "support@bugsnag.com",
+    "url": "https://www.bugsnag.com/"
+  }
+}
